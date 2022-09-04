@@ -1,4 +1,5 @@
 # 1 minute math game
+# 1ST project from the challenge. Tried doing it without eval() and 
 
 import time
 import random as r
